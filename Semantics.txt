@@ -1,0 +1,89 @@
+language: we use on a daily basis (English, Arabic ... etc.)
+Language: The principles of human Language
+		  Universal terms, No language-specific.
+
+Semantics: is the study of meaning in Human Language.
+Linguistics is the study of Human Language.
+
+Ali drank the tea.
+Sounds: A/D/K 	N/P
+-------------------------------------
+Sounds: Phonetics, Phonology, 
+Form:   Morphology - Words
+		Syntac: Phrases, Clauses/ S
+Meaning: Semantics, Pragmatics
+-----------------------------------------
+Relationship between terms
+==========================
+Homonymy: 
+The words that share the same spelling and the same pronunciation but have different unrelated meaning
+e.g.
+	Salk (N: part of plnat, V:follow/harass a person)
+	Bear (animan/ and carry)
+	Left (opposite of right / and past of leave)
+	light : no dark / a kind of metal
+
+
+pronunciation:
+
+Homography:
+The words that share the same spelling regardless of how they are pronounced.
+e.g.
+	Minute: unit of time / Minute: tiny
+	Read: present tense / past tense
+	Pre'sent: Verb / 'present: Noun
+
+Homophony:
+Are words that share the same pronunciation regardless of how they are spelled.
+e.g.
+	Tire: to become weary
+	Tyre: on the wheel of a cat
+	Too, two
+	There, their, they're
+	right, write, rite
+
+Polysemy:
+A word or phrase with multiple, related meaning
+e.g.
+	to get:
+		take: I'll get the drinks
+		Become: She got scared.
+		Have: I've got three dollars.
+		Understand: I get it
+
+Polysemy VS Homonymy:
+Polysemy: The meaning is related to each other.
+Homonymy: The meaning is NOT related to each other.
+
+Synonymy:
+Antonymy:
+
+Paronymy:
+The words have a slight difference in spelling, pronunciation and have different meanings.
+e.g.
+	Affect & effect
+	Farther & furgher
+	accept & expect & except
+	Excise & exercise
+
+Hyponymy:
+Are a set of words those meaning are specific instances of a more general word. Or words fall under another word.
+e.g.
+	Red, white, blue are hyponyms of color.
+	Train, van, bicycle, bus, airplane are hyponyms of vehicle.
+	Tomatoes, lettuce, carrots, vegetables
+
+Metonymy:
+A thing or concept is not called by its own name, but by the name of something intimately associated with that thing or concept.
+e.g.
+	The white house supports the bill. (using the white house instead of the president)
+	The suit had a meeting yesterday. (using the suits instead of businessmen)
+
+Prototype
+Holonymy:
+The relationship between a term denoting the whole and a term denoting a part of the whole. it is the opposite of meronymy.
+e.g.
+	The hand is a holonym of finger
+	The tree is a holonym of bark (outer part of the tree)
+
+
