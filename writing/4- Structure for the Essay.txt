@@ -1,0 +1,29 @@
+Structure for the Essay
+=======================
+
+Introduction
+------------
+1- Paraphrase question
+2- Outline sentence
+
+Problem
+-------
+3- State problem
+4- Explain what problem is
+5- What is the result of this problem
+6- Example
+
+Solution
+--------
+7- State solution
+8- Explain how the solution will sove the problem
+9- Example
+
+Conclusion
+----------
+Sentence 10- Unify of main points in paragraphs 2 and 3 (Why it matters) *referring back to a phrase or word used in the introduction.
+
+In some countries levels of health and fitness are decreasing and average weights are increasing.
+What do you think are the causes of these problems and what are some possible solutions?
+
+
